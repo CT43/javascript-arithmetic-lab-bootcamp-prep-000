@@ -11,3 +11,8 @@ function divide(a, b) {
 function inc(n) {
   return n += 1
 }  
+function dec(n) { 
+  return n-= 1}
+function markInt(n) {
+  return parseInt(n,10)
+}
